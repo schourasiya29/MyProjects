@@ -1,0 +1,17 @@
+
+‚
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8øîÌ±¯/HÆRBLOCKERZBUG
+ƒ
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8øîÌ±¯/HÃRBLOCKERZBUG
+
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(˜Ä”›øÿÿÿÿ8øîÌ±¯/HÄRBLOCKERZBUG
+{
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(‡ãæÄ8øîÌ±¯/HÅRBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Æ¢ úÿÿÿÿ8øîÌ±¯/HÁRMAJORZ
+CODE_SMELL
+}
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(·ğ‘çşÿÿÿÿ8øîÌ±¯/HÀRMINORZ
+CODE_SMELL
+Y
+java:S1170"!Make this final field static too.(·ğ‘çşÿÿÿÿ8ëÎ±¯/HÊRMINORZ
+CODE_SMELL

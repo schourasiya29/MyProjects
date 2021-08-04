@@ -1,0 +1,17 @@
+package com.sac.serialization;
+
+import java.io.Serializable;
+
+class Account implements Serializable {
+	String username = "sachin";
+	String pwd = "ABCDEF";
+	int pin = 1234;
+}
+
+public class CustomizedSerializationDemo1 {
+
+	public static void main(String[] args) {
+
+	}
+
+}

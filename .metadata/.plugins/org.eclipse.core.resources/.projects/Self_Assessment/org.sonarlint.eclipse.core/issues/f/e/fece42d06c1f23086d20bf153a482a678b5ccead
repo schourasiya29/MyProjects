@@ -1,0 +1,7 @@
+
+x
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(•ƒî÷8Ù¨æØ°/HŠRMAJORZBUG
+z
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ì»†Ã8Ù¨æØ°/H‹RBLOCKERZBUG
+|
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ï•½œþÿÿÿÿ8Ù¨æØ°/HŒRBLOCKERZBUG

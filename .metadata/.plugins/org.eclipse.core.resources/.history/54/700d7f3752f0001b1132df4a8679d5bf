@@ -1,0 +1,11 @@
+package com.sac.java.iopackage;
+
+/*Example to merger two files (file1.txt and file2.txt) into one file (file3.text)*/
+public class FileMergerDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

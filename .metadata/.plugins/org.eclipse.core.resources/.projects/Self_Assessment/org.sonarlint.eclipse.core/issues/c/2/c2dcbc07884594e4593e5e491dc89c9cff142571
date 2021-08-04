@@ -1,0 +1,5 @@
+
+z
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(´ÓñÊ8í‰¼ˆ¯/HêRBLOCKERZBUG
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ñ—¸½úÿÿÿÿ8í‰¼ˆ¯/HéRMAJORZ
+CODE_SMELL

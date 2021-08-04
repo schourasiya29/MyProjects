@@ -1,0 +1,9 @@
+package com.sac.java.iopackage;
+
+public class FileExtractorDemo {
+
+	public static void main(String[] args) {
+
+	}
+
+}

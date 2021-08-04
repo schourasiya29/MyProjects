@@ -1,0 +1,17 @@
+
+ƒ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ğÅíà8¡ø‡À¯/HûRMINORZ
+CODE_SMELL
+p	java:S106-"9Replace this use of System.out or System.err by a logger.(òÏ£ıÿÿÿÿ8Ğ¹ù¿¯/HúRMAJORZ
+CODE_SMELL
+
+java:S2095)"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(³’ÿÿÿÿÿ8ßäë¿¯/HÿRBLOCKERZBUG
+ƒ
+java:S2095*"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8ßäë¿¯/HùRBLOCKERZBUG
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÚÔƒûşÿÿÿÿ8‹ˆ­À¯/HøRMINORZ
+CODE_SMELL
+‚
+java:S20950"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8È†ø¿¯/HıRBLOCKERZBUG
+€
+java:S2095/"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(çóÛøÿÿÿÿ8È†ø¿¯/H€RBLOCKERZBUG
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(—öì ùÿÿÿÿ8‹ó¿¯/HüRMAJORZ
+CODE_SMELL

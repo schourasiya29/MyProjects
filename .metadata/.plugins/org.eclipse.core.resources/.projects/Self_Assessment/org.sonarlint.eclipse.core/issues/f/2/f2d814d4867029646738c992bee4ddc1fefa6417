@@ -1,0 +1,17 @@
+
+|
+java:S2095"NUse try-with-resources or close this "FileOutputStream" in a "finally" clause.(îŸæÜ8ÙöÂ±¯/H­RBLOCKERZBUG
+z
+java:S2095"MUse try-with-resources or close this "FileInputStream" in a "finally" clause.(†‡ÿ18ÙöÂ±¯/H«RBLOCKERZBUG
+x
+java:S1124"EReorder the modifiers to comply with the Java Language Specification.(½ ¦8ÙöÂ±¯/H§RMINORZ
+CODE_SMELL
+ƒ
+java:S2095"PUse try-with-resources or close this "ObjectOutputStream" in a "finally" clause.(¥€ë˜øÿÿÿÿ8ÙöÂ±¯/H¬RBLOCKERZBUG
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(Æ¢ úÿÿÿÿ8ÙöÂ±¯/H¨RMAJORZ
+CODE_SMELL
+‚
+java:S2095"OUse try-with-resources or close this "ObjectInputStream" in a "finally" clause.(ÑÒ»¥øÿÿÿÿ8ÙöÂ±¯/HªRBLOCKERZBUG
+m
+java:S2209!"5Change this instance-reference to a static reference.(Æ¢ úÿÿÿÿ8ÙöÂ±¯/H©RMAJORZ
+CODE_SMELL

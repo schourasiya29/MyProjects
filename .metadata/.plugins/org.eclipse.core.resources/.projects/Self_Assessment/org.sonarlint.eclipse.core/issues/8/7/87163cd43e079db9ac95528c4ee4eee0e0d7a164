@@ -1,0 +1,7 @@
+
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(ñÛÚ“şÿÿÿÿ8ï§¹¯/H‰RBLOCKERZBUG
+z
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(Í®üõ8ÇÛ¯¯/HRBLOCKERZBUG
+|
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ãÆÓ¶øÿÿÿÿ8Ø«¯/HúRBLOCKERZBUG

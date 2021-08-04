@@ -1,0 +1,29 @@
+package com.sac.multithreadingEnhancements;
+
+class Mythread1 extends Thread {
+	Mythread1(ThreadGroup g, String name) {
+		super(g, name);
+
+	}
+
+	public void run() {
+		System.out.println("Child Thread");
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+}
+
+public class ThreadGroupDemo1 {
+
+	public static void main(String[] args) {
+		ThreadGroup pg = new ThreadGroup("Parent Group");
+		ThreadGroup cg = new ThreadGroup(pg,"Child Group");
+		
+		Mythread1 t1 = new Mythread1(cg, null);
+
+	}
+
+}

@@ -1,0 +1,19 @@
+package com.sac.java.iopackage;
+
+import java.io.BufferedReader;
+import java.io.FileNotFoundException;
+import java.io.PrintWriter;
+
+/*Example remove duplicates from input file and paste in output file*/
+public class FileDuplicateEliminatorDemo {
+
+	public static void main(String[] args) throws FileNotFoundException {
+		final String outputFile = "D:\\PR_SACHIN\\Self_Assessment\\FileExamples\\DuplicateEliminatorEX\\output.txt";
+		final String inputFile = "D:\\PR_SACHIN\\Self_Assessment\\FileExamples\\DuplicateEliminatorEX\\input.txt";
+
+		PrintWriter pw = new PrintWriter(outputFile);
+		BufferedReader
+
+	}
+
+}

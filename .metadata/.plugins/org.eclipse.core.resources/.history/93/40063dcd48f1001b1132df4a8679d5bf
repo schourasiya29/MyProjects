@@ -1,0 +1,12 @@
+package com.sac.serialization;
+
+/*To recover the loss of data by transient keyword we 
+ *need to perform the customized serialization
+ */
+public class CustomizedSerializationDemo {
+
+	public static void main(String[] args) {
+
+	}
+
+}

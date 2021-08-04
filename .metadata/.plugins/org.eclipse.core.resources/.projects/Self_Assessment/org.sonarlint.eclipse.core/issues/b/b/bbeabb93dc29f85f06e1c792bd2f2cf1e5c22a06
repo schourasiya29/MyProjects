@@ -1,0 +1,8 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÇÃ§åşÿÿÿÿ8« ‘ò®/H¶RMAJORZ
+CODE_SMELL
+{
+java:S2095"HUse try-with-resources or close this "FileReader" in a "finally" clause.(Äé¢Üùÿÿÿÿ8§éŒò®/H¯RBLOCKERZBUG
+r
+java:S1128":Remove this unused import 'java.io.FileNotFoundException'.(·î™ùÿÿÿÿ8ä˜ò®/H³RMINORZ
+CODE_SMELL

@@ -1,0 +1,13 @@
+package com.sac.regex;
+
+import java.io.PrintWriter;
+
+public class MobileNoExtractorRegexDemo {
+
+	public static void main(String[] args) {
+		String output = "D:\\PR_SACHIN\\Self_Assessment\\RegExExamples\\output.txt";
+		String input = "D:\\PR_SACHIN\\Self_Assessment\\RegExExamples\\input.txt";
+		PrintWriter pw = new PrintWriter(output);
+	}
+
+}

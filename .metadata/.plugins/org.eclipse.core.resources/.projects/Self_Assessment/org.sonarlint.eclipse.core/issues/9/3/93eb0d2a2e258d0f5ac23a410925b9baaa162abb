@@ -1,0 +1,18 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(İ´­‡8Î¸’ß®/HÈRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(âŞ°ÿÿÿÿÿ8Šˆˆß®/H´RMAJORZ
+CODE_SMELL
+`
+java:S1172"(Remove this unused method parameter "l".(Â·ê¡ÿÿÿÿÿ8Î¸’ß®/HÆRMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(şöû”ÿÿÿÿÿ8Šˆˆß®/HºRMINORZ
+CODE_SMELL
+`
+java:S1172"(Remove this unused method parameter "I".(şöû”ÿÿÿÿÿ8Šˆˆß®/H²RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(‚ıäüÿÿÿÿ8Šˆˆß®/H·RMAJORZ
+CODE_SMELL
+`
+java:S1172"(Remove this unused method parameter "i".(Ğù’œıÿÿÿÿ8Šˆˆß®/HµRMAJORZ
+CODE_SMELL

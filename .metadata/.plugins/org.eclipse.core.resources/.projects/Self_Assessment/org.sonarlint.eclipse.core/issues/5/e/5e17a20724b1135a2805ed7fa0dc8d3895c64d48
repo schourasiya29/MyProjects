@@ -1,0 +1,11 @@
+
+[
+java:S2157"%Add a "clone()" method to this class.(â–8ÂãÓö¬/HÛ
+RCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(å É‰8®ÑÒö¬/HÜ
+RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(µşšŠ8¥óÚö¬/Hİ
+RMAJORZ
+CODE_SMELL

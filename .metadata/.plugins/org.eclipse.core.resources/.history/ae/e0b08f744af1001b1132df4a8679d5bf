@@ -1,0 +1,44 @@
+package com.sac.serialization;
+
+import java.io.FileInputStream;
+import java.io.FileOutputStream;
+import java.io.IOException;
+import java.io.ObjectInputStream;
+import java.io.ObjectOutputStream;
+import java.io.Serializable;
+
+/*To recover the loss of data by transient keyword we 
+ *need to perform the customized serialization, and we 
+ *can do that by defining the write() and read() methods 
+ *in the Accounts class 
+ */
+class Accounts implements Serializable {
+	String name = "Sachin";
+	transient String pwd = "abcdefg";
+	
+	private void write(ObjectOutputStream os) throws IOException{
+		os.defaultWriteObject();
+		String encripted_pwd = "12345abcdefg";
+		os.writeObject(encripted_pwd);
+		
+	}
+}
+
+public class CustomizedSerializationDemo {
+
+	public static void main(String[] args) throws IOException, ClassNotFoundException {
+		Accounts a = new Accounts();
+		FileOutputStream fos = new FileOutputStream("abc4.ser");
+		ObjectOutputStream oos = new ObjectOutputStream(fos);
+		oos.writeObject(a);
+
+		System.out.println("After Serialization name = " + a.name + "..pass = " + a.pwd);
+
+		FileInputStream fis = new FileInputStream("abc4.ser");
+		ObjectInputStream ois = new ObjectInputStream(fis);
+		Accounts a1 = (Accounts) ois.readObject();
+
+		System.out.println("After DeSerialization name = " + a1.name + "..pass = " + a1.pwd);
+	}
+
+}

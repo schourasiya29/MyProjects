@@ -1,0 +1,11 @@
+package com.sac.multithreadingEnhancements;
+
+public class ThreadGroupDemo {
+
+	public static void main(String[] args) {
+		ThreadGroup g1 = new ThreadGroup("tg");
+		Thread t1 = new Thread(g1, "Thread-1");
+		Thread t2 = new Thread(g1, "Thread-2");
+	}
+
+}

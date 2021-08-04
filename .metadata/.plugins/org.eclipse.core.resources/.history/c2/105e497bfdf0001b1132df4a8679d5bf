@@ -1,0 +1,16 @@
+package com.sac.serialization;
+
+class Dog {
+	int i = 10;
+	int j = 20;
+
+}
+
+public class SerializationAndDeserializationDemo {
+
+	public static void main(String[] args) {
+		Dog d = new Dog();
+
+	}
+
+}

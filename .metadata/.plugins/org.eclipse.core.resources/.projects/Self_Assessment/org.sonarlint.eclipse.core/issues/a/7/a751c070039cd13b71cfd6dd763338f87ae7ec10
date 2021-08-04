@@ -1,0 +1,15 @@
+
+j	java:S106"9Replace this use of System.out or System.err by a logger.(œ™À8š¼õË¬/H‰	RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(Î’ÛÚ8š¼õË¬/HŠ	RMAJORZ
+CODE_SMELL
+‰	java:S116"WRename this field "Student_name" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(àñáª8Ş´óË¬/H	RMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ç—†éøÿÿÿÿ8š¼õË¬/H‹	RMAJORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ŸÄÄşÿÿÿÿ8Ş´óË¬/H‡	RMINORZ
+CODE_SMELL
+ˆ	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(§ŸÄÄşÿÿÿÿ8Ş´óË¬/Hˆ	RMINORZ
+CODE_SMELL
+	java:S116"YRename this field "Student_RollNo" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ûŒ­ıÿÿÿÿ8Ş´óË¬/H‚	RMINORZ
+CODE_SMELL

@@ -1,0 +1,6 @@
+projectKey=Self_Assessment
+serverUrl=http://localhost:9000
+serverVersion=9.0.0.45539
+dashboardUrl=http://localhost:9000/dashboard?id=Self_Assessment
+ceTaskId=AXrSbM3X3WIfB8zo2G2A
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXrSbM3X3WIfB8zo2G2A

@@ -1,0 +1,20 @@
+package com.sac.practice;
+
+public class StringTest {
+
+	
+	public static void main(String[] args){
+		String s ="iwantittoeareversestring";
+	   String res=  reverseString(s);
+	}
+	
+	public static String reverseString(String str){
+		String out = "";
+	for (int i=str.length(); i>0;i--){
+		
+		
+	}
+	return out;
+		
+	}
+}

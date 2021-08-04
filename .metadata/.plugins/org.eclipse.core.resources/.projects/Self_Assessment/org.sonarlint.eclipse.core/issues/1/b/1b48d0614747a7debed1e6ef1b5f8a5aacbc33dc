@@ -1,0 +1,8 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ÃØï¥ÿÿÿÿÿ8¥»Ö°/HÜRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¿Æ‚Ïüÿÿÿÿ8¥»Ö°/HİRMAJORZ
+CODE_SMELL
+x
+java:S5998
+"LRefactor this repetition that can lead to a stack overflow for large inputs.(•ƒî÷8¥»Ö°/HÛRMAJORZBUG

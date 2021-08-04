@@ -1,0 +1,21 @@
+package com.sac.multithreadingEnhancements;
+
+class Mythread1 extends Thread {
+	public void run() {
+		System.out.println("Child Thread");
+		try {
+			Thread.sleep(5000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+	}
+}
+
+public class ThreadGroupDemo1 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

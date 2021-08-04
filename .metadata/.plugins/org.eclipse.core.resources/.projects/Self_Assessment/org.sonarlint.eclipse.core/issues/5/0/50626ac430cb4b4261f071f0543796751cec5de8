@@ -1,0 +1,28 @@
+
+X
+java:S1481"'Remove this unused "ch" local variable.(ü¿çëüÿÿÿÿHİRMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(ªëÌëıÿÿÿÿHãRMAJORZ
+CODE_SMELL
+h
+java:S1854"7Remove this useless assignment to local variable "ch1".(­â¾şÿÿÿÿHáRMAJORZ
+CODE_SMELL
+g
+java:S1854"6Remove this useless assignment to local variable "ch".(ü¿çëüÿÿÿÿHåRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(¨•ÍËHßRMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(š—°øÿÿÿÿHäRMAJORZ
+CODE_SMELL
+°
+java:S1186 "€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ù¢­HÜRCRITICALZ
+CODE_SMELL
+g
+java:S1854"6Remove this useless assignment to local variable "ar".(¸áßıÿÿÿÿHàRMAJORZ
+CODE_SMELL
+Y
+java:S1481"(Remove this unused "ch1" local variable.(­â¾şÿÿÿÿHŞRMINORZ
+CODE_SMELL
+X
+java:S1481"'Remove this unused "ar" local variable.(¸áßıÿÿÿÿHâRMINORZ
+CODE_SMELL

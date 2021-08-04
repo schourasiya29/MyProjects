@@ -1,0 +1,10 @@
+package com.sac.java.iopackage;
+
+public class PrintAllDirectoriesInADirectoryDemo {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

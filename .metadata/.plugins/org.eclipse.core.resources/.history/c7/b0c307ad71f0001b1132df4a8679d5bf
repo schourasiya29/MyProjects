@@ -1,0 +1,13 @@
+package com.sac.java.iopackage;
+
+public class FileMargerDemo1 {
+
+	/*
+	 * Example to merger two files (file1.txt and file2.txt) into one file
+	 * (file3.text) with alternative texts
+	 */
+	public static void main(String[] args) {
+
+	}
+
+}

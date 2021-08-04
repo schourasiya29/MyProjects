@@ -1,0 +1,9 @@
+package com.sac.java.iopackage;
+
+public class FileReaderDemo1 {
+	/* File Reader Demo by using int read(char[] ch) method */
+	public static void main(String[] args) {
+
+	}
+
+}

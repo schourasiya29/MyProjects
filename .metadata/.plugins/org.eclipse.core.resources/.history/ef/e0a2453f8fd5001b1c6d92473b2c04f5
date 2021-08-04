@@ -1,0 +1,16 @@
+package com.sac.practice;
+
+public class Parent{
+	
+}
+public class Child{
+	
+}
+public class ParentObjectTest {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+	}
+
+}

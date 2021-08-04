@@ -1,0 +1,18 @@
+package com.practice.sac;
+
+public class Test {
+
+	public static void main(String[] args) {
+		byte b = 127;
+		System.out.println(b);
+		
+		int x = 10;
+		int y = 010;
+		int z = 0X10;
+		int a = 0777;
+		char ch =97;
+		
+		System.out.println("value of x = " + x + " y = " +y+ " z = " +z+ " and a = " +a+" "+ ch);
+	}
+
+}

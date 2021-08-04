@@ -1,0 +1,10 @@
+
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(š„ Øıÿÿÿÿ8€Ğ·–¯/H…RBLOCKERZBUG
+|
+java:S2095"IUse try-with-resources or close this "PrintWriter" in a "finally" clause.(ÌúÚ¼ûÿÿÿÿ8×ª³–¯/HÿRBLOCKERZBUG
+
+java:S2095"LUse try-with-resources or close this "BufferedReader" in a "finally" clause.(·º¢üÿÿÿÿ8×ª³–¯/HşRBLOCKERZBUG
+Z
+java:S1125"'Remove the unnecessary boolean literal.(©Êì‰8Ô¯Ä–¯/HšRMINORZ
+CODE_SMELL

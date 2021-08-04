@@ -1,0 +1,21 @@
+package com.sac.practice;
+
+class Parent{
+	Parent(){
+		System.out.println(this.hashCode());
+	}
+}
+class Child{
+	Child(){
+		System.out.println(this.hashCode());
+	}
+}
+public class ParentObjectTest {
+
+	public static void main(String[] args) {
+		Child ch = new Child();
+		System.out.println(ch.hashCode());
+
+	}
+
+}

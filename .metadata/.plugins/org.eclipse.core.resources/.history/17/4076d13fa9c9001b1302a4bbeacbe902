@@ -1,0 +1,21 @@
+package com.sac.practice;
+
+public class StringTest {
+
+	
+	public static void main(String[] args){
+		String s ="iwantittoeareversestring";
+	   String res=  reverseString(s);
+	   System.out.println(res);
+	}
+	
+	public static String reverseString(String str){
+		String out = "";
+	for (int i=str.length(); i>1;i--){
+		
+		out = out+ (str.charAt(i));
+	}
+	return out;
+		
+	}
+}

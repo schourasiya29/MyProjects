@@ -1,0 +1,25 @@
+
+
+java:S1192+"FDefine a constant instead of duplicating this literal "durga" 3 times.(…¸Äàûÿÿÿÿ8“°ÚÒ¬/H	RCRITICALZ
+CODE_SMELL
+p	java:S1064"9Replace this use of System.out or System.err by a logger.(ŸÖ³úùÿÿÿÿ8“°ÚÒ¬/H™	RMAJORZ
+CODE_SMELL
+k	java:S106="9Replace this use of System.out or System.err by a logger.(ÈûñŸ8“°ÚÒ¬/Hš	RMAJORZ
+CODE_SMELL
+‚
+java:S2159="VRemove this call to "equals"; comparisons between unrelated types always return false.(ÈûñŸ8“°ÚÒ¬/H	RMAJORZBUG
+¦
+java:S2159D"zRemove this call to "equals"; comparisons against null always return false; consider using '== null' to check for nullity.(Ÿüï°8“°ÚÒ¬/H›	RMAJORZBUG
+y
+java:S1126!"AReplace this if-then-else statement by a single return statement.(Ÿé÷äıÿÿÿÿ8„ŸéÒ¬/Hª	RMINORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(Ä’Ä„8“°ÚÒ¬/Hœ	RMAJORZ
+CODE_SMELL
+|
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(ÜÑã8„ŸéÒ¬/H¨	RMINORZBUG
+k	java:S106D"9Replace this use of System.out or System.err by a logger.(Ÿüï°8“°ÚÒ¬/H˜	RMAJORZ
+CODE_SMELL
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(×†÷¿üÿÿÿÿ8š±ÖÒ¬/H”	RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(¹å¹ë8À–Ó¬/Hî	RMAJORZ
+CODE_SMELL

@@ -1,0 +1,10 @@
+
+i	java:S106"9Replace this use of System.out or System.err by a logger.(×Ö£«ÿÿÿÿÿHÇRMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(…ˆ¡•HÈRMAJORZ
+CODE_SMELL
+T
+java:S1604"(Make this anonymous inner class a lambda(ÉãÃ®HÉRMAJORZ
+CODE_SMELL
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(”«¹âHÊRMINORZ
+CODE_SMELL

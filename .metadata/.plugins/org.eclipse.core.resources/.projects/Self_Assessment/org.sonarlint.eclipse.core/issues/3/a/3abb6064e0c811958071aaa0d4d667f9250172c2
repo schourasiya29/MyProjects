@@ -1,0 +1,19 @@
+
+p	java:S106!"9Replace this use of System.out or System.err by a logger.(ŞÁ¼Íøÿÿÿÿ8øÉµ®/Hï
+RMAJORZ
+CODE_SMELL
+p	java:S106%"9Replace this use of System.out or System.err by a logger.(—ø¤ñÿÿÿÿÿ8øÉµ®/Hğ
+RMAJORZ
+CODE_SMELL
+Œ
+java:S1488"YImmediately return this expression instead of assigning it to the temporary variable "d".(½¤€8êÇĞµ®/Hó
+RMINORZ
+CODE_SMELL
+ˆ
+java:S2975"SRemove this "clone" implementation; use a copy constructor or copy factory instead.(¯áÑë8×”êµ®/Hø
+RBLOCKERZ
+CODE_SMELL
+{
+java:S1182"HUse super.clone() to create and seed the cloned instance to be returned.(¯áÑë8×”êµ®/Hù
+RMINORZ
+CODE_SMELL
