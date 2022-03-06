@@ -1,0 +1,17 @@
+
+}	java:S112"FDefine and throw a dedicated exception instead of using a generic one.(¯åÕøÿÿÿÿ8¥­â…ô/HçORMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.HäORMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ù¿éûÿÿÿÿ8¥­â…ô/HèORMAJORZ
+CODE_SMELL
+k	java:S106
+"9Replace this use of System.out or System.err by a logger.(¸íñ´8¥­â…ô/HğORMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(İÆ¡¾øÿÿÿÿ8¥­â…ô/HéORMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(€Şäñşÿÿÿÿ8Ş«é…ô/HòORMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¿ÅÙ•8Ş«é…ô/HóORMAJORZ
+CODE_SMELL

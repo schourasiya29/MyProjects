@@ -1,0 +1,18 @@
+package com.sac.collectionsframework.map;
+
+import java.util.TreeMap;
+
+public class TreeMapCustomizedSortingDemo {
+
+	public static void main(String[] args) {
+		TreeMap tm = new TreeMap();
+		tm.put("xxxx", 10);
+		tm.put("zzzz", 30);
+		tm.put("yyyy", 20);
+		tm.put("wwww", 50);
+		tm.put("vvvv", 60);
+		
+
+	}
+
+}

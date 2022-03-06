@@ -1,0 +1,26 @@
+
+g
+java:S3740N"/Provide the parametrized type for this generic.(Ææñäùÿÿÿÿ8Œ¾ªú±/H’$RMAJORZ
+CODE_SMELL
+b
+java:S3740E"/Provide the parametrized type for this generic.(ÙÚ¾8ë»Æú±/H“$RMAJORZ
+CODE_SMELL
+k	java:S106U"9Replace this use of System.out or System.err by a logger.(ÔŒ±‚8Œ¾ªú±/H”$RMAJORZ
+CODE_SMELL
+g
+java:S3740."/Provide the parametrized type for this generic.(î³¯Üúÿÿÿÿ8çü¢ú±/H•$RMAJORZ
+CODE_SMELL
+b
+java:S3740	"/Provide the parametrized type for this generic.(Ö›üŠ8Ï±Òù±/H–$RMAJORZ
+CODE_SMELL
+b
+java:S3740E"/Provide the parametrized type for this generic.(ÙÚ¾8ë»Æú±/H—$RMAJORZ
+CODE_SMELL
+g
+java:S3740N"/Provide the parametrized type for this generic.(Ææñäùÿÿÿÿ8Œ¾ªú±/H˜$RMAJORZ
+CODE_SMELL
+Œ
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8Ï±Òù±/H™$RMINORZ
+CODE_SMELL
+p	java:S106L"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ8ë»Æú±/Hš$RMAJORZ
+CODE_SMELL

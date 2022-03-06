@@ -1,9 +1,0 @@
-package com.sac.regex;
-
-public class MobileNoValidationRegExDemo {
-
-	public static void main(String[] args) {
-
-	}
-
-}

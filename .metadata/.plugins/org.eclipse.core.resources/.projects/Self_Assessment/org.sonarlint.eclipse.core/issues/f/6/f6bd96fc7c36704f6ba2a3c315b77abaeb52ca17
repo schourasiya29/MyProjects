@@ -1,0 +1,12 @@
+
+n	java:S125	"<This block of commented-out lines of code should be removed.(ÚÆ©8Ã¡ÙÓ×/HÛBRMAJORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(øĞíıÿÿÿÿ8Æ¶Ó×/HÜBRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ã”…ªûÿÿÿÿ8åÌÌÓ×/HİBRMAJORZ
+CODE_SMELL
+k
+java:S1197
+"8Move the array designator from the variable to the type.(áï¿8Æ¶Ó×/HŞBRMINORZ
+CODE_SMELL

@@ -1,0 +1,21 @@
+
+public class Test6 {
+
+	public static void main(String[] args) {
+		try {
+			System.out.println("Hello");
+			throw new RuntimeException();
+			//System.out.println("Hello");
+		} catch (Exception e) {
+			System.out.println("There");
+		} finally {
+
+			System.out.println("Wow");
+
+		}
+
+		System.out.println("Bye");
+
+	}
+
+}

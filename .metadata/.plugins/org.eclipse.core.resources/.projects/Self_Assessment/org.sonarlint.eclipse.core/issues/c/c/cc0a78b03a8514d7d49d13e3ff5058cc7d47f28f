@@ -1,0 +1,45 @@
+
+b
+java:S3740"/Provide the parametrized type for this generic.(íÒ«8âìÌ´±/H½(RMAJORZ
+CODE_SMELL
+k	java:S106!"9Replace this use of System.out or System.err by a logger.(½óß£8Ö¤Ò´±/H¾(RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(Ìé—ãûÿÿÿÿ8âìÌ´±/H¿(RMAJORZ
+CODE_SMELL
+m	java:S125"<This block of commented-out lines of code should be removed.(ĞØë+8ÑƒÓ´±/HÀ(RMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(íÒ«8âìÌ´±/HÁ(RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(â½ãûÿÿÿÿ8âìÌ´±/HÂ(RMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(ë÷”˜8Ö¤Ò´±/HÃ(RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(›ò»¾ÿÿÿÿÿ8âìÌ´±/HÄ(RMAJORZ
+CODE_SMELL
+˜
+java:S1149"eReplace the synchronized class "Vector" by an unsynchronized one such as "ArrayList" or "LinkedList".(íÒ«8âìÌ´±/HÅ(RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(Åó ¨üÿÿÿÿ8Ö¤Ò´±/HÆ(RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(è—Ê“üÿÿÿÿ8Ö¤Ò´±/HÇ(RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(í–İÈ8Ö¤Ò´±/HÈ(RMAJORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(Åó ¨üÿÿÿÿ8Ö¤Ò´±/HÉ(RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(³ÊÀ”ıÿÿÿÿ8âìÌ´±/HÊ(RMAJORZ
+CODE_SMELL
+p	java:S106 "9Replace this use of System.out or System.err by a logger.(×…úÿÿÿÿ8âìÌ´±/HË(RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ığ“ÿøÿÿÿÿ8âìÌ´±/HÌ(RMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(ºú‰¾8Ö¤Ò´±/HÍ(RMAJORZ
+CODE_SMELL

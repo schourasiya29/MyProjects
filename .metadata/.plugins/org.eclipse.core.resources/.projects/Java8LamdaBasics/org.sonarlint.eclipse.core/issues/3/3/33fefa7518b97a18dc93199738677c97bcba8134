@@ -1,0 +1,17 @@
+
+k	java:S106&"9Replace this use of System.out or System.err by a logger.(â‚¤¥8ã¼ÑíÝ/H°FRMAJORZ
+CODE_SMELL
+d
+java:S1612",Replace this lambda with a method reference.(’®‘Êþÿÿÿÿ8î±ÅíÝ/H±FRMINORZ
+CODE_SMELL
+d
+java:S1602",Remove useless curly braces around statement(’®‘Êþÿÿÿÿ8î±ÅíÝ/H²FRMINORZ
+CODE_SMELL
+_
+java:S1602",Remove useless curly braces around statement(í¬çÔ8ž¢ÝÄç/H³FRMINORZ
+CODE_SMELL
+_
+java:S1612",Replace this lambda with a method reference.(í¬çÔ8ž¢ÝÄç/H´FRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(â‚¤¥8ã¼ÑíÝ/HµFRMAJORZ
+CODE_SMELL

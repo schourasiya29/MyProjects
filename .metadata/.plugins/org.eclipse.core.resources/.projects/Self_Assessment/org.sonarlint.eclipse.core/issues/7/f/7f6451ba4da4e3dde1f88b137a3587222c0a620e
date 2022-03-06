@@ -1,0 +1,9 @@
+
+Ž	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÞïŸ}8ÌêÄ“¶/HÊ+RCRITICALZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¤º´º8ÌêÄ“¶/HÌ+RMAJORZ
+CODE_SMELL
+Ž	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÞïŸ}8ÌêÄ“¶/HË+RCRITICALZ
+CODE_SMELL
+Ž	java:S115"ZRename this constant name to match the regular expression '^[A-Z][A-Z0-9]*(_[A-Z0-9]+)*$'.(ÞïŸ}8ÌêÄ“¶/HÉ+RCRITICALZ
+CODE_SMELL

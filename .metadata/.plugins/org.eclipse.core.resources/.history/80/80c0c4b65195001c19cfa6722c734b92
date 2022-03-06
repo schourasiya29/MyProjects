@@ -1,0 +1,32 @@
+package com.practice.sac;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
+@Data
+@ToString
+@AllArgsConstructor
+class Employee1 {
+
+	private int id;
+	private String name;
+	private List<String> citiesWorkedIn;
+
+}
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		List<Employee1> list = new ArrayList<>();
+		list.add(new Employee1(1, "Sachin",new ArrayList<String>(Arrays.asList("Pune","Indore"))));
+		list.add(new Employee1(2, "Vipin",new ArrayList<String>(Arrays.asList("Pune","Indore","Mumbai"))));
+		list.add(new Employee1(3, "Yashi",new ArrayList<String>(Arrays.asList("Pune","Indore","Banglore"))));
+	}
+
+}

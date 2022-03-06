@@ -1,0 +1,23 @@
+
+]
+java:S1612",Replace this lambda with a method reference.(¢ùûÇùÿÿÿÿHš;RMINORZ
+CODE_SMELL
+[
+java:S1611"/Remove the parentheses around the "s" parameter(ûÍ‹H›;RMINORZ
+CODE_SMELL
+X
+java:S1612",Replace this lambda with a method reference.(ûÍ‹Hœ;RMINORZ
+CODE_SMELL
+]
+java:S1612",Replace this lambda with a method reference.(íù´æıÿÿÿÿH;RMINORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(à‡²­şÿÿÿÿH;RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(üŸ¦‰ùÿÿÿÿHŸ;RMAJORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(ÅÔ‚—H ;RMAJORZ
+CODE_SMELL
+g	java:S125"<This block of commented-out lines of code should be removed.(¼¨ÊµH¡;RMAJORZ
+CODE_SMELL
+i	java:S106"9Replace this use of System.out or System.err by a logger.(«äóüúÿÿÿÿH¢;RMAJORZ
+CODE_SMELL

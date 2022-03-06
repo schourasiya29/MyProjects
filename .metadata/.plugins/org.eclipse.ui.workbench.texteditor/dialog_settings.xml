@@ -2,30 +2,30 @@
 <section name="Workbench">
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
 		<item value="false" key="isRegEx"/>
-		<item value="Dog3" key="selection"/>
+		<item value="putIfAbsent" key="selection"/>
 		<item value="false" key="casesensitive"/>
 		<item value="false" key="incremental"/>
 		<item value="true" key="wrap"/>
 		<item value="false" key="wholeword"/>
 		<list key="findhistory">
+			<item value="putIfAbsent"/>
+			<item value="Sigleton"/>
+			<item value="public"/>
+			<item value="SingletonClassWithException"/>
+			<item value="Main"/>
 			<item value="Dog2"/>
 			<item value="Dog"/>
 			<item value="MyThread3"/>
-			<item value="Mythread1"/>
-			<item value="MyThread19"/>
-			<item value="Display5"/>
-			<item value="MyThread18"/>
-			<item value="Display4"/>
 		</list>
 		<list key="replacehistory">
+			<item value="Singleton"/>
+			<item value="Sigleton"/>
+			<item value="PubSubModel"/>
 			<item value="Dog3"/>
 			<item value="Dog2"/>
 			<item value="Dog1"/>
 			<item value="MyThread4"/>
 			<item value="MyThread1"/>
-			<item value="MyThread20"/>
-			<item value="Display6"/>
-			<item value="MyThread19"/>
 		</list>
 	</section>
 	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">

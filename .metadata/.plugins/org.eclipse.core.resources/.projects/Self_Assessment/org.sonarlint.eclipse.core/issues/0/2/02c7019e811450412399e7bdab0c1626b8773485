@@ -1,45 +1,32 @@
 
-j
-java:S4973"9Use the "equals" method if value comparison was intended.(«η¤Βÿÿÿÿÿ8½ρητ¬/H»
-RMAJORZBUG
-k	java:S106"9Replace this use of System.out or System.err by a logger.(§Ί­ί8ν“κτ¬/Hΐ
-RMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(Ν‘¥ωÿÿÿÿ8ν“κτ¬/HΑ
-RMAJORZ
-CODE_SMELL
-x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΐ•‘ΘH
-RMINORZ
-CODE_SMELL
-|
-java:S1192"FDefine a constant instead of duplicating this literal "durga" 4 times.(Ή‹ψΜ8»ζετ¬/H®
-RCRITICALZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(«η¤Βÿÿÿÿÿ8½ρητ¬/HΉ
-RMAJORZ
-CODE_SMELL
-‚
-java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ήªμΜ8±ªστ¬/HΛ
-RMAJORZBUG
-—
-java:S1149	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ν¶Λ®ωÿÿÿÿ8»ζετ¬/H£
-RMAJORZ
+X
+java:S2129" Remove this "String" constructor(Θ“θδύÿÿÿÿ8»ζετ¬/H”4RMAJORZ
 CODE_SMELL
 S
-java:S2129" Remove this "String" constructor(Ή‹ψΜ8»ζετ¬/H¨
-RMAJORZ
-CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(ήªμΜ8±ªστ¬/HΚ
-RMAJORZ
-CODE_SMELL
-p	java:S106"9Replace this use of System.out or System.err by a logger.(Φ³ϊωÿÿÿÿ8½ρητ¬/HΊ
-RMAJORZ
+java:S2129" Remove this "String" constructor(Ή‹ψΜ8»ζετ¬/H•4RMAJORZ
 CODE_SMELL
 —
-java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Βε™Άψÿÿÿÿ8»ζετ¬/HΆ
-RMAJORZ
+java:S1149	"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(ν¶Λ®ωÿÿÿÿ8»ζετ¬/H–4RMAJORZ
 CODE_SMELL
-X
-java:S2129" Remove this "String" constructor(Θ“θδύÿÿÿÿ8»ζετ¬/H©
-RMAJORZ
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Φ³ϊωÿÿÿÿ8½ρητ¬/H—4RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ν‘¥ωÿÿÿÿ8ν“κτ¬/H4RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(§Ί­ί8ν“κτ¬/H™4RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(«η¤Βÿÿÿÿÿ8½ρητ¬/H4RMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(ήªμΜ8±ªστ¬/H›4RMAJORZ
+CODE_SMELL
+j
+java:S4973"9Use the "equals" method if value comparison was intended.(«η¤Βÿÿÿÿÿ8½ρητ¬/H4RMAJORZBUG
+|
+java:S1192"FDefine a constant instead of duplicating this literal "durga" 4 times.(Ή‹ψΜ8»ζετ¬/H4RCRITICALZ
+CODE_SMELL
+—
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Βε™Άψÿÿÿÿ8»ζετ¬/HΆ4RMAJORZ
+CODE_SMELL
+‚
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(ήªμΜ8±ªστ¬/H£4RMAJORZBUG
+x	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ΐ•‘ΘH¤4RMINORZ
 CODE_SMELL

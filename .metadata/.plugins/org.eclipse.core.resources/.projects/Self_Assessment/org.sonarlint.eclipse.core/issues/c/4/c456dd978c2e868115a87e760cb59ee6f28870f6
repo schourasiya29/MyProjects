@@ -1,0 +1,21 @@
+
+e
+java:S1128"-Remove this unused import 'java.util.Arrays'.(î–˜Éüÿÿÿÿ8á€¤×ë/HòIRMINORZ
+CODE_SMELL
+b
+java:S1128"/Remove this unused import 'java.util.Calendar'.(ÿÛö´8åÃ˜×ë/HóIRMINORZ
+CODE_SMELL
+k
+java:S1128"8Remove this unused import 'java.util.GregorianCalendar'.(€û½8åÃ˜×ë/HôIRMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(˜Îèøÿÿÿÿ8§Ÿ¤×ë/HõIRMAJORZ
+CODE_SMELL
+^
+java:S1128"+Remove this unused import 'java.util.Date'.(¸…¼ü8åÃ˜×ë/HüIRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øæ«ÏHıIRMINORZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(´Ó”†8á€¤×ë/HşIRMAJORZ
+CODE_SMELL
+s	java:S125-"<This block of commented-out lines of code should be removed.(ˆî¶äüÿÿÿÿ8çşª×ë/HÿIRMAJORZ
+CODE_SMELL

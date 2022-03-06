@@ -1,0 +1,30 @@
+
+Š
+java:S1215&"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“8›²‡Ú²/Hó$RCRITICALZ
+CODE_SMELL
+k	java:S106("9Replace this use of System.out or System.err by a logger.(¢Î€’8ÄÍˆÚ²/H÷$RMAJORZ
+CODE_SMELL
+h
+java:S1854%"5Remove this useless assignment to local variable "t".(©¯ıƒ8›²‡Ú²/Hò$RMAJORZ
+CODE_SMELL
+h
+java:S1113"-Do not override the Object.finalize() method.(­§óùÿÿÿÿ8­ÊüÙ²/H×$RCRITICALZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ã•ığøÿÿÿÿ8Ò‚Ú²/Hê$RMAJORZ
+CODE_SMELL
+a
+java:S1174"&Make this finalize() method protected.(­§óùÿÿÿÿ8­ÊüÙ²/HØ$RCRITICALZ
+CODE_SMELL
+k	java:S106$"9Replace this use of System.out or System.err by a logger.(¢Î€’8­ÊüÙ²/HÙ$RMAJORZ
+CODE_SMELL
+g
+java:S3740""/Provide the parametrized type for this generic.(¯°Ì“üÿÿÿÿ8Ä‘Ú²/H‚%RMAJORZ
+CODE_SMELL
+g
+java:S3740""/Provide the parametrized type for this generic.(¯°Ì“üÿÿÿÿ8Ä‘Ú²/Hƒ%RMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(óÒÎó8Ä‘Ú²/H„%RMAJORZ
+CODE_SMELL
+f
+java:S1128".Remove this unused import 'java.util.HashMap'.(™˜”€ùÿÿÿÿ8Ä‘Ú²/H…%RMINORZ
+CODE_SMELL

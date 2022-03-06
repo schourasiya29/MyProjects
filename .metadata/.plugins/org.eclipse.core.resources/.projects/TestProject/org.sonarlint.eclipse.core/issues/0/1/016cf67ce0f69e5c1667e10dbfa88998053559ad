@@ -1,0 +1,32 @@
+
+j
+java:S1155&">Use isEmpty() to check whether the collection is empty or not.(§ŒÍ‚HôORMINORZ
+CODE_SMELL
+T	java:S108G")Either remove or fill this block of code.(ä ¹€HõORMAJORZ
+CODE_SMELL
+ƒ
+java:S21423"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€HöORMAJORZBUG
+F
+java:S1220""Move this file to a named package.H÷ORMINORZ
+CODE_SMELL
+ƒ
+java:S2142L"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€HøORMAJORZBUG
+X
+java:S1612",Replace this lambda with a method reference.(ˆÊœßHùORMINORZ
+CODE_SMELL
+T	java:S108.")Either remove or fill this block of code.(ä ¹€HúORMAJORZ
+CODE_SMELL
+ƒ
+java:S2142G"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€HûORMAJORZBUG
+U
+java:S5413,")Verify that "remove()" is used correctly.(²ôˆ¼HüORMAJORZ
+CODE_SMELL
+]
+java:S1612",Replace this lambda with a method reference.(çƒÇùøÿÿÿÿHýORMINORZ
+CODE_SMELL
+ƒ
+java:S2142."^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€HþORMAJORZBUG
+d	java:S106)"9Replace this use of System.out or System.err by a logger.(ê¯î£HÿORMAJORZ
+CODE_SMELL
+d	java:S106B"9Replace this use of System.out or System.err by a logger.(ê¯î£H€PRMAJORZ
+CODE_SMELL

@@ -1,0 +1,19 @@
+
+m
+java:S1161":Add the "@Override" annotation above this method signature(“–ış8ÕİŞè/H‹FRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øæ«ÏHŒFRMINORZ
+CODE_SMELL
+m
+java:S1161":Add the "@Override" annotation above this method signature(¿›œø8³á¾ßè/HFRMAJORZ
+CODE_SMELL
+j	java:S106"9Replace this use of System.out or System.err by a logger.(¤Œí8¤ÉÚŞè/HFRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¶ôºØ8¤ÉÚŞè/HFRMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(†ú–¤8³á¾ßè/HFRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(´Ğ²é8ÌŠ Úè/H‘FRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(»Èµœúÿÿÿÿ8ÕİŞè/H’FRMAJORZ
+CODE_SMELL

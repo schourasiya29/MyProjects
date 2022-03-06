@@ -1,0 +1,17 @@
+
+public class Test5 {
+
+	public static void main(String[] args) {
+		String str = "Test";
+		
+		String str1 = str + "Test1"; //TestTest1
+
+		String str2 = "TestTest1";
+
+		if(str1==str2)
+			System.out.println("Equal");
+		else
+			System.out.println("Not equal");
+	}
+
+}

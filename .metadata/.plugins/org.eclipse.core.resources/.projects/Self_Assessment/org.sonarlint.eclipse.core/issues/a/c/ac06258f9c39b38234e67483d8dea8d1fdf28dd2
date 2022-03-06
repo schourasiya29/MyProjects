@@ -1,0 +1,9 @@
+
+k
+java:S1197	"8Move the array designator from the variable to the type.(ˆ€Ñø8ñ‚–Ñ×/H’HRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(ý·Êôýÿÿÿÿ8ñ‚–Ñ×/H“HRMAJORZ
+CODE_SMELL
+T
+java:S1643"Use a StringBuilder instead.(Ô÷üüùÿÿÿÿ8ü²ëòØ/H”HRMINORZ
+CODE_SMELL

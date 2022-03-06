@@ -1,9 +1,0 @@
-package com.sac.serialization;
-
-public class CustomizedSerializationDemo {
-
-	public static void main(String[] args) {
-
-	}
-
-}

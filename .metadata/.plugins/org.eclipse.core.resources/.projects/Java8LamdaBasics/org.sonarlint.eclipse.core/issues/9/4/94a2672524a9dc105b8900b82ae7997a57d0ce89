@@ -1,0 +1,25 @@
+
+p	java:S106K"9Replace this use of System.out or System.err by a logger.(öãÚØÿÿÿÿÿ8ß¨ Úç/HÍMRMAJORZ
+CODE_SMELL
+p	java:S106/"9Replace this use of System.out or System.err by a logger.(ã¿¢Ôùÿÿÿÿ8ß¨ Úç/HÎMRMAJORZ
+CODE_SMELL
+k	java:S106J"9Replace this use of System.out or System.err by a logger.(‚¨Ö§8ß¨ Úç/HÏMRMAJORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(˜‹¦¿ıÿÿÿÿ8ß¨ Úç/HĞMRMAJORZ
+CODE_SMELL
+p	java:S1068"9Replace this use of System.out or System.err by a logger.(ª’‘Ÿşÿÿÿÿ8ß¨ Úç/HÑMRMAJORZ
+CODE_SMELL
+k	java:S106N"9Replace this use of System.out or System.err by a logger.(µˆœÑ8‰ èŠë/HÒMRMAJORZ
+CODE_SMELL
+h
+java:S3655H"7Call "Optional#isPresent()" before accessing the value.(†¢˜ıøÿÿÿÿ8ß¨ Úç/HÓMRMAJORZBUG
+b
+java:S3655I"7Call "Optional#isPresent()" before accessing the value.(ûÜ\8¥Úç/HÔMRMAJORZBUG
+k	java:S106<"9Replace this use of System.out or System.err by a logger.( §›ƒ8ï´•Êæ/HÕMRMAJORZ
+CODE_SMELL
+s	java:S125@"<This block of commented-out lines of code should be removed.(Ô²à·şÿÿÿÿ8ß¨ Úç/HÖMRMAJORZ
+CODE_SMELL
+k	java:S1064"9Replace this use of System.out or System.err by a logger.(€†­ğ8ß¨ Úç/H×MRMAJORZ
+CODE_SMELL
+k	java:S106D"9Replace this use of System.out or System.err by a logger.(éæ„¨8ÿ‡§Úç/HØMRMAJORZ
+CODE_SMELL

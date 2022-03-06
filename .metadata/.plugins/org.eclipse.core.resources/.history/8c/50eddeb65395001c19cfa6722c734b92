@@ -1,0 +1,42 @@
+package com.practice.sac;
+
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.Predicate;
+import java.util.stream.Collectors;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.ToString;
+
+@Data
+@ToString
+@AllArgsConstructor
+class Employee1 {
+
+	private int id;
+	private String name;
+	private double salary;
+	private List<String> citiesWorkedIn;
+
+}
+
+public class Test3 {
+
+	public static void main(String[] args) {
+		List<Employee1> list = new ArrayList<>();
+		list.add(new Employee1(1, "Sachin",5000,new ArrayList<String>(Arrays.asList("Pune","Indore"))));
+		list.add(new Employee1(2, "Sachin",4000,new ArrayList<String>(Arrays.asList("Pune","Indore","Banglore"))));
+		list.add(new Employee1(3, "Vipin",4000,new ArrayList<String>(Arrays.asList("Pune","Indore","Mumbai"))));
+		list.add(new Employee1(4, "Yashi",2000,new ArrayList<String>(Arrays.asList("Pune","Indore","Banglore"))));
+		
+Predicate<Employee1> p1 = e-> e.getName().equals("Sachin");
+Predicate<Employee1> p2 = e-> e.getSalary()>3000;
+
+		Map<String, List<Employee1>> map = list.stream().filter(p1.and(p2)).collect(Collectors.toMap(Employee1::getName, e->e));
+		
+		//System.out.println(list);
+	}
+
+}

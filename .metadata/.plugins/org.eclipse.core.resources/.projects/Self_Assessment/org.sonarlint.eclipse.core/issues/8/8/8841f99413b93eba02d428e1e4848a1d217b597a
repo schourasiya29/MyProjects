@@ -1,0 +1,8 @@
+
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¢Î€’8ŞŸØ§Ç/H?RMAJORZ
+CODE_SMELL
+p
+java:S1197"8Move the array designator from the variable to the type.(¶Œ¨¼úÿÿÿÿ8ŞŸØ§Ç/H?RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(É÷˜áşÿÿÿÿ8¾­â§Ç/H?RMAJORZ
+CODE_SMELL

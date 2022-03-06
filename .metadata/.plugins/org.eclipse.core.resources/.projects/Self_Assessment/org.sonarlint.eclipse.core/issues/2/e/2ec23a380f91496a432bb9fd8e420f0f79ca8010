@@ -1,0 +1,26 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øæ«ÏHéERMINORZ
+CODE_SMELL
+Y
+java:S1481"&Remove this unused "l" local variable.(€ÛÙæ8ëªˆ„é/HêERMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Î¦˜™ùÿÿÿÿ8¹•úƒé/HëERMAJORZ
+CODE_SMELL
+…
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ÛÙæHìERMINORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(ŞÛï8‘èÔƒé/HíERMAJORZ
+CODE_SMELL
+l
+java:S1128"9Remove this unused import 'java.util.function.Predicate'.(ïÍ–¶8Ğ¦ƒ„é/HîERMINORZ
+CODE_SMELL
+d	java:S106"9Replace this use of System.out or System.err by a logger.(Óğ¸¨HïERMAJORZ
+CODE_SMELL
+h
+java:S1854"5Remove this useless assignment to local variable "l".(€ÛÙæ8ëªˆ„é/HğERMAJORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(­úåñ8å¤„é/HñERMAJORZ
+CODE_SMELL
+b
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(’İúf8ÆˆŸ„é/HòERMAJORZBUG

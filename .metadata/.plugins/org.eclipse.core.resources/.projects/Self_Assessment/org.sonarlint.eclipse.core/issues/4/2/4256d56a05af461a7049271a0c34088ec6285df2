@@ -1,0 +1,7 @@
+
+h
+java:S3655"7Call "Optional#isPresent()" before accessing the value.(ΧΩµψÿÿÿÿ8μΨγίθ/H¤FRMAJORZBUG
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ψζ«ΟH¥FRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(‚¨Φ§8ΤέΫίθ/H¦FRMAJORZ
+CODE_SMELL

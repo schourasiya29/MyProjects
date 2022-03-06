@@ -1,0 +1,16 @@
+package com.sac.concurrentcollection;
+
+import java.util.concurrent.ConcurrentHashMap;
+
+public class ConcurrentHashMapDemo extends Thread {
+	static ConcurrentHashMap<Integer, String> chm = new ConcurrentHashMap<>();
+
+	public void run() {
+
+	}
+
+	public static void main(String[] args) {
+
+	}
+
+}

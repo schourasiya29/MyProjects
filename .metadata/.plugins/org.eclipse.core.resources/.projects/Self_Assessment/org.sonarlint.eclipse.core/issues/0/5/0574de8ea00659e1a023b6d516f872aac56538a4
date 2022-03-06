@@ -1,0 +1,26 @@
+
+a
+java:S3740
+"/Provide the parametrized type for this generic.(¬ıÌH8ÃïòÕ±/H¶RMAJORZ
+CODE_SMELL
+b
+java:S3740"/Provide the parametrized type for this generic.(àØ«8ÃïòÕ±/H·RMAJORZ
+CODE_SMELL
+s	java:S125,"<This block of commented-out lines of code should be removed.(ß×ßøûÿÿÿÿ8òƒÖ±/HºRMAJORZ
+CODE_SMELL
+s	java:S125/"<This block of commented-out lines of code should be removed.(ì™•„ıÿÿÿÿ8ƒ¯†Ö±/HÆRMAJORZ
+CODE_SMELL
+n	java:S125#"<This block of commented-out lines of code should be removed.(şÕÄ8˜ËıÕ±/H…RMAJORZ
+CODE_SMELL
+s	java:S125&"<This block of commented-out lines of code should be removed.(ÎÒÈŞşÿÿÿÿ8³üşÕ±/HRMAJORZ
+CODE_SMELL
+a
+java:S3740
+"/Provide the parametrized type for this generic.(¬ıÌH8ÃïòÕ±/HµRMAJORZ
+CODE_SMELL
+n	java:S125)"<This block of commented-out lines of code should be removed.(ÔºÖä8¡ÈÿÕ±/HŸRMAJORZ
+CODE_SMELL
+s	java:S1252"<This block of commented-out lines of code should be removed.(€“ªµıÿÿÿÿ8¯ï‡Ö±/HßRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ8ÃïòÕ±/H¸RMAJORZ
+CODE_SMELL

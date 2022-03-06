@@ -1,0 +1,40 @@
+
+k	java:S106^"9Replace this use of System.out or System.err by a logger.(ÔŒ±‚8§à³û±/H©(RMAJORZ
+CODE_SMELL
+p	java:S106V"9Replace this use of System.out or System.err by a logger.(¤¸¤ûÿÿÿÿ8¶çØû±/Hª(RMAJORZ
+CODE_SMELL
+b
+java:S14819"*Remove this unused "eage2" local variable.(¹Æ´üÿÿÿÿ8îçøû±/H«(RMINORZ
+CODE_SMELL
+l
+java:S18548"9Remove this useless assignment to local variable "eage1".(²üÒë8îçøû±/H¬(RMAJORZ
+CODE_SMELL
+g
+java:S37400"/Provide the parametrized type for this generic.(¿ÉÚİúÿÿÿÿ8ïñğû±/H­(RMAJORZ
+CODE_SMELL
+Œ
+java:S1210"YOverride "equals(Object obj)" to comply with the contract of the "compareTo(T o)" method.(‡ÕÔÏ8æÁû±/H®(RMINORZ
+CODE_SMELL
+]
+java:S14818"*Remove this unused "eage1" local variable.(²üÒë8îçøû±/H¯(RMINORZ
+CODE_SMELL
+g
+java:S3740"/Provide the parametrized type for this generic.(Éˆ›…şÿÿÿÿ8—ËÀû±/H°(RMAJORZ
+CODE_SMELL
+b
+java:S3740O"/Provide the parametrized type for this generic.(ÙÚ¾8Š€ºû±/H±(RMAJORZ
+CODE_SMELL
+b
+java:S3740O"/Provide the parametrized type for this generic.(ÙÚ¾8Š€ºû±/H²(RMAJORZ
+CODE_SMELL
+g
+java:S3740W"/Provide the parametrized type for this generic.(Îú’£úÿÿÿÿ8¶çØû±/H³(RMAJORZ
+CODE_SMELL
+g
+java:S3740W"/Provide the parametrized type for this generic.(Îú’£úÿÿÿÿ8¶çØû±/H´(RMAJORZ
+CODE_SMELL
+q
+java:S18549"9Remove this useless assignment to local variable "eage2".(¹Æ´üÿÿÿÿ8îçøû±/Hµ(RMAJORZ
+CODE_SMELL
+s	java:S125="<This block of commented-out lines of code should be removed.(¯À¼ºşÿÿÿÿ8Ğğ«ü±/H¶(RMAJORZ
+CODE_SMELL

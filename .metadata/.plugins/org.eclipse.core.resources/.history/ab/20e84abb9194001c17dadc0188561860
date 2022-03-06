@@ -1,0 +1,13 @@
+
+public class Test5 {
+
+	public static void main(String[] args) {
+		/*Find out pairs in positive Integer Array where a sum of Integer in a pair is a Odd Number.
+		Note: Pair can be formed via front or back element both ways. No Skipping of element to get the Odd number.
+		Example 
+		Input  : arr[] = {1, 2, 4 ,5}
+		Output : [1,2] and [2,1] and [5,4] and [4,5]*/
+		
+	}
+
+}

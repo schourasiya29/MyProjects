@@ -1,0 +1,26 @@
+
+d
+java:S1612
+",Replace this lambda with a method reference.(’®‘Êşÿÿÿÿ8ô®Õè/H§FRMINORZ
+CODE_SMELL
+d
+java:S1602
+",Remove useless curly braces around statement(’®‘Êşÿÿÿÿ8Øµ–Õè/H¨FRMINORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øæ«ÏH©FRMINORZ
+CODE_SMELL
+_
+java:S1612",Replace this lambda with a method reference.(í¬çÔ8ô®Õè/HªFRMINORZ
+CODE_SMELL
+q
+java:S2276"CReplace the call to "Thread.sleep(...)" with a call to "wait(...)".(¬Æ„°8”¿ŒÕè/H«FRBLOCKERZBUG
+k	java:S106"9Replace this use of System.out or System.err by a logger.(×äÆŒ8˜±œÕè/H¬FRMAJORZ
+CODE_SMELL
+i
+java:S1135"2Complete the task associated to this TODO comment.(ÕÌ®şÿÿÿÿ8Øµ–Õè/H­FRINFOZ
+CODE_SMELL
+_
+java:S1602",Remove useless curly braces around statement(í¬çÔ8áş–Õè/H®FRMINORZ
+CODE_SMELL
+Š
+java:S2142"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8Øµ–Õè/H¯FRMAJORZBUG

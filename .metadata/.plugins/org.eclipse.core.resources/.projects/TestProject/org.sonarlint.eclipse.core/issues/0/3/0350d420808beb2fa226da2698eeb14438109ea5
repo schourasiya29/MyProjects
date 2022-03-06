@@ -1,0 +1,16 @@
+
+‘
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø‘áËüÿÿÿÿ8çÁ‚‚è/H¯BRMINORZ
+CODE_SMELL
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(…í‘Ó8çÁ‚‚è/H°BRMINORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(“‚¶’ÿÿÿÿÿ8Ìèıè/H±BRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(¡úæˆşÿÿÿÿ8ôÛ‘‚è/H²BRMAJORZ
+CODE_SMELL
+F
+java:S1220""Move this file to a named package.H³BRMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(áõ”8ôÛ‘‚è/H´BRMAJORZ
+CODE_SMELL

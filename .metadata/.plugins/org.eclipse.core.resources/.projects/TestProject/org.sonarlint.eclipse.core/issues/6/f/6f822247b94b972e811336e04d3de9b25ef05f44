@@ -1,0 +1,17 @@
+
+F
+java:S1220""Move this file to a named package.HÌORMINORZ
+CODE_SMELL
+k	java:S106"9Replace this use of System.out or System.err by a logger.(¢Î€’8ŒßºÕò/HÍORMAJORZ
+CODE_SMELL
+‡
+java:S1128"TRemove this unnecessary import: same package classes are always implicitly imported.(÷‰îƒ8ŒßºÕò/HÎORMINORZ
+CODE_SMELL
+a
+java:S1481")Remove this unused "list" local variable.(æÿæ©ÿÿÿÿÿ8ŒßºÕò/HÏORMINORZ
+CODE_SMELL
+p
+java:S1854"8Remove this useless assignment to local variable "list".(æÿæ©ÿÿÿÿÿ8ŒßºÕò/HÐORMAJORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(í’»†úÿÿÿÿ8ŒßºÕò/HÑORMAJORZ
+CODE_SMELL

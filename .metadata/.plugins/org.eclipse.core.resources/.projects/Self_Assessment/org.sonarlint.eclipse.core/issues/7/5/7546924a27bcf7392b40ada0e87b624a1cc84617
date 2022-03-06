@@ -1,0 +1,26 @@
+
+p	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ8ı‰™Ø±/HÂRMAJORZ
+CODE_SMELL
+V	java:S131""Add a default case to this switch.(ìúÇV8ª½ø×±/H—RCRITICALZ
+CODE_SMELL
+Œ
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ìş¹8Ê¶¬Ø±/H†RMINORZ
+CODE_SMELL
+p	java:S1063"9Replace this use of System.out or System.err by a logger.(º§‡†ÿÿÿÿÿ8Ì”Ş±/HœRMAJORZ
+CODE_SMELL
+‹
+java:S2293	"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÌ¿N8ªß²Ø±/HˆRMINORZ
+CODE_SMELL
+o
+java:S1854"7Remove this useless assignment to local variable "arr".(ÒŠè¸üÿÿÿÿ8Í‹›Ø±/HÌRMAJORZ
+CODE_SMELL
+s	java:S1250"<This block of commented-out lines of code should be removed.(¼à±«üÿÿÿÿ8ªß²Ø±/H‰RMAJORZ
+CODE_SMELL
+`
+java:S1481"(Remove this unused "arr" local variable.(ÒŠè¸üÿÿÿÿ8Í‹›Ø±/HÍRMINORZ
+CODE_SMELL
+p	java:S1062"9Replace this use of System.out or System.err by a logger.(ÍúÀªÿÿÿÿÿ8¸™ÙØ±/H’RMAJORZ
+CODE_SMELL
+j
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¯…ƒŞ±/H RMINORZ
+CODE_SMELL

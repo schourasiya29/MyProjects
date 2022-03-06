@@ -1,6 +1,12 @@
 
 F
-java:S1220""Move this file to a named package.HóRMINORZ
+java:S1220""Move this file to a named package.HºHRMINORZ
 CODE_SMELL
-k	java:S106"9Replace this use of System.out or System.err by a logger.(˛è•â8∏Ò∫Î¨/HòRMAJORZ
+n	java:S125"<This block of commented-out lines of code should be removed.(›–Â˛8§≈‡ø›/HΩHRMAJORZ
+CODE_SMELL
+ä	java:S127"XRefactor the code in order to not assign to this loop counter from within the loop body.(”πΩØ8…´˝†Í/H∆HRMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(Ê®§ö¯ˇˇˇˇ8…´˝†Í/H«HRMAJORZ
+CODE_SMELL
+n	java:S125 "<This block of commented-out lines of code should be removed.(Ωë—≥8˝¯¸†Í/H»HRMAJORZ
 CODE_SMELL

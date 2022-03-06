@@ -1,0 +1,15 @@
+
+Œ
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(€ÛÙæ8»µ¥šŞ/H?RMINORZ
+CODE_SMELL
+k	java:S106'"9Replace this use of System.out or System.err by a logger.(ş­»8Ø¸‹šŞ/H‘?RMAJORZ
+CODE_SMELL
+p	java:S106)"9Replace this use of System.out or System.err by a logger.(®ıáëûÿÿÿÿ8·äÉšŞ/H’?RMAJORZ
+CODE_SMELL
+p	java:S106"9Replace this use of System.out or System.err by a logger.(êğ»ıÿÿÿÿ8ïê°šŞ/H“?RMAJORZ
+CODE_SMELL
+b
+java:S3655("7Call "Optional#isPresent()" before accessing the value.(¬í8¤áÃšŞ/H”?RMAJORZBUG
+g
+java:S3740&"/Provide the parametrized type for this generic.(Õ¢›¥ıÿÿÿÿ8·äÉšŞ/H•?RMAJORZ
+CODE_SMELL

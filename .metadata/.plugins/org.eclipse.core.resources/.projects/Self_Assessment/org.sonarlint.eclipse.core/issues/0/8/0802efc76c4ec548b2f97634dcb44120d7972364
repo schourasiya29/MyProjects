@@ -1,0 +1,19 @@
+
+s	java:S125%"<This block of commented-out lines of code should be removed.(úö¯¯ıÿÿÿÿ8Çâÿêè/H¼MRMAJORZ
+CODE_SMELL
+n	java:S125."<This block of commented-out lines of code should be removed.(’×Ö‡8š¤«ãè/H½MRMAJORZ
+CODE_SMELL
+p	java:S106;"9Replace this use of System.out or System.err by a logger.(ùÒÁ€øÿÿÿÿ8¶¯äâè/H¾MRMAJORZ
+CODE_SMELL
+p	java:S106<"9Replace this use of System.out or System.err by a logger.(ª¡éúÿÿÿÿ8ÊÍéâè/H¿MRMAJORZ
+CODE_SMELL
+p	java:S1065"9Replace this use of System.out or System.err by a logger.(¨ô¢¨ıÿÿÿÿ8ÊÍéâè/HÀMRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Öì‰8Şğùêè/HÁMRMAJORZ
+CODE_SMELL
+k	java:S1066"9Replace this use of System.out or System.err by a logger.(¢°°­8¶¯äâè/HÆMRMAJORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(Öì‰8Şğùêè/HÇMRMAJORZ
+CODE_SMELL
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Øæ«ÏHÌMRMINORZ
+CODE_SMELL

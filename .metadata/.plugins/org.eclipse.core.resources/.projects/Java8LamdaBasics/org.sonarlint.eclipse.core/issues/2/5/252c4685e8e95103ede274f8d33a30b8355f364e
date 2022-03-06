@@ -1,0 +1,13 @@
+
+i	java:S106
+"9Replace this use of System.out or System.err by a logger.(žÜ¹†ûÿÿÿÿH³;RMAJORZ
+CODE_SMELL
+…
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(§£äãH´;RMAJORZBUG
+i	java:S106"9Replace this use of System.out or System.err by a logger.(Ä¼êîûÿÿÿÿHµ;RMAJORZ
+CODE_SMELL
+…
+java:S1217"`Call the method Thread.start() to execute the content of the run() method in a dedicated thread.(Êâ†‹H¶;RMAJORZBUG
+Y
+java:S1604"(Make this anonymous inner class a lambda(ÐˆÓ˜ûÿÿÿÿH·;RMAJORZ
+CODE_SMELL
